@@ -8,7 +8,7 @@ With a strong technical foundation and hands-on experience in custom architectur
 *   **Backend & Databases:** PHP (Laravel, Vanilla), PostgreSQL, C#, Python, C++
 *   **Frontend:** React, JavaScript (ES6+), AJAX, HTML5, CSS3, Bootstrap
 *   **Infrastructure & Cloud:** AWS (SES, S3)
-*   **Learning & Using Next:** Linux VPS management, Nginx, 
+*   **Learning & Using Next:** Linux VPS management, Nginx
 
 ### 🚀 Featured Projects
 
