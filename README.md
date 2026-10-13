@@ -27,4 +27,4 @@ A complete e-commerce platform successfully delivered to handle shifting client 
 *   **Email:** [al81563@alunos.utad.pt](mailto:al81563@alunos.utad.pt)
 *   **LinkedIn:** [Pedro Constantino](linkedin.com/in/pedro-constantino-71716a254)
 *   **Resume:** [View my CV](https://drive.google.com/file/d/1xgkOU3abJdZxSR2Htlo1-vne_X-Vmoom/view?usp=sharing)
-*   
+  
